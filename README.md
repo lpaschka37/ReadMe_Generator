@@ -70,7 +70,7 @@ GitHub [@lpaschka37](https://github.com/lpaschka37)
 Email [lpaschka37@gmailcom](mailto:lpaschka37@gmail.com)
 
 ## Deliverable
-<img src="develop/assets/readmeGeneratorDemo.gif" width="500" alt="application demo">
+<img src="./assets/ReadMe_Generator_Gif.gif" width="600" alt="demo">
 
 ### Repository
 https://github.com/lpaschka37/ReadMe_Generator
