@@ -23,8 +23,7 @@ You will need [Node.js](https://nodejs.org/en/) to run this application, ensure 
 Lets get started, ensure the following files and folders are present in the root directory: 
   
 
-<img src="./assets/directory_files.png width="300" alt="directory list">
-
+<img src="./assets/directory_files.png" width="200" alt="directory list">
   
 * ```index.js``` (to initialize the application and write the README file)
 * ```package.json``` (contains dependencies)
