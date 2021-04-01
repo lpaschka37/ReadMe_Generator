@@ -144,4 +144,3 @@ Email [${response.email}](mailto:${response.email})
 
 // export the generateMarkdown function for use elsewhere (index.js)
 module.exports = generateMarkdown;
-module.exports = generateMarkdown;

@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of this application is to simplify the readme creation process by automatically generating a structured readme file based on responses provided on common readme sections, including: Title, Description, Installation Instructions, Usage Instructions, License, Contribution Guidelines, Test Instructions, and Questions (with contact information about the author), followed by a confirmation message that the README file is ready for immediate use.
+The purpose of this application is to simplify the readme file creation process by automatically generating a readme file based on responses provided on common readme sections, includes: Title, Description, Installation Instructions, Usage Instructions, License, Contribution Guidelines, Test Instructions, Questions and contact information about the author, followed by a message confirming the README file is ready for use.
       
 ## Table of Contents
 1. [Install Instructions](#install-instructions)
@@ -13,36 +13,38 @@ The purpose of this application is to simplify the readme creation process by au
 4. [Contribution Guidelines](#contribution-guidelines)
 5. [Test Instructions](#test-instructions)
 6. [Questions](#questions)
+7. [Deliverable](#deliverable)
+6. [Repository](#Repository)
 
 ## Install Instructions
 
-This application requires [Node.js](https://nodejs.org/en/) to run, so ensure Node.js is installed first.  
+You will need [Node.js](https://nodejs.org/en/) to run this application, ensure Node.js is installed first.  
 
-To get started, ensure the following files and folders are present in the root directory: 
+Lets get started, ensure the following files and folders are present in the root directory: 
   
 
-<img src="/assets/" width="200" alt="">
+<img src="./assets/directory_files.png width="300" alt="directory list">
 
   
 * ```index.js``` (to initialize the application and write the README file)
 * ```package.json``` (contains dependencies)
 * ```/utils``` folder containing ```generateMarkdown.js``` (to generate markdown)
 
-Then, open an integrated or bash terminal and run the following command to install [Inquirer](https://www.npmjs.com/package/inquirer):
+Next, open the integrated terminal and run the following command to install [Inquirer](https://www.npmjs.com/package/inquirer):
 
-    npm i  
+    npm install  
 
 Once installed, confirm the folder ```/node_modules/inquirer``` is present before proceeding to Usage Instructions.
  
 ## Usage Instructions
 
-Open an integrated terminal or bash command prompt and type the following command, then press enter: 
+Open the integrated terminal command prompt and type the following command, then press enter: 
 
     node index.js
 
-Follow the prompts and respond as desired to populate your readme.  
+Follow the prompts and respond to populate your readme with content.  
 
-After the last response is given, the README(.md) file will be automatically generated in the root directory.  
+After the final response, the README(.md) file will be automatically generated in the root directory.  
 
 If using VScode, right-click on the README file and select 'Open Preview' to see your presentable README.
 
@@ -54,7 +56,7 @@ This application is licensed under Mozilla Public License 2.0.
 
 ## Contribution Guidelines
 
-Contributors are welcome. Just remember, this is open source software. Consider the people who will read your code, and make it look nice for them. It's sort of like driving a car: Perhaps you love doing donuts when you're alone, but with passengers the goal is to make the ride as smooth as possible.
+Contributors are welcome. Just remember, this is open source software. Consider the people who will read your code, make sure it is formatted properly so this is easy to read for all potential users. 
 
 ## Test Instructions
 
@@ -62,17 +64,13 @@ Tests are coming soon..
 
 ## Questions
 
-If you have any questions, contact the author:  
+If you have any questions, please contact the author:  
 
 GitHub [@lpaschka37](https://github.com/lpaschka37)  
 Email [lpaschka37@gmailcom](mailto:lpaschka37@gmail.com)
 
 ## Deliverable
-
-### Demo
-
-
+<img src="develop/assets/readmeGeneratorDemo.gif" width="500" alt="application demo">
 
 ### Repository
-
-
+https://github.com/lpaschka37/ReadMe_Generator
