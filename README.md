@@ -21,7 +21,7 @@ This application requires [Node.js](https://nodejs.org/en/) to run, so ensure No
 To get started, ensure the following files and folders are present in the root directory: 
   
 
-<img src="develop/assets/example_directory.JPG" width="200" alt="example directory">
+<img src="/assets/" width="200" alt="">
 
   
 * ```index.js``` (to initialize the application and write the README file)
@@ -58,21 +58,21 @@ Contributors are welcome. Just remember, this is open source software. Consider 
 
 ## Test Instructions
 
-Tests are coming soon, and will be written using [Jest](https://jestjs.io/).
+Tests are coming soon..
 
 ## Questions
 
 If you have any questions, contact the author:  
 
-GitHub [@kdkleven](https://github.com/kdkleven)  
-Email [kylekleven8@gmail.com](mailto:kylekleven8@gmail.com)
+GitHub [@lpaschka37](https://github.com/lpaschka37)  
+Email [lpaschka37@gmailcom](mailto:lpaschka37@gmail.com)
 
 ## Deliverable
 
 ### Demo
 
-<img src="develop/assets/readmeGeneratorDemo.gif" width="500" alt="application demo">
+
 
 ### Repository
 
-https://github.com/kdkleven/READMEgenerator
+
